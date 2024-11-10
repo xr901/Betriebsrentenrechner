@@ -1,2 +1,3 @@
-# betriebsrentenrechner
-Rechner für Betriebsrente anhand eines Beispielunternehmens
+# Betriebsrentenrechner
+
+Rechner für Betriebsrente als Python-Skript anhand eines Beispielunternehmens
